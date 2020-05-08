@@ -1,1 +1,1 @@
-App of Rick and Morty backend Front
+App of Rick and Morty Frontend
